@@ -1,4 +1,4 @@
-# Areto Systems PHP INTEGRATION
+# Areto Systems INTEGRATION IN PHP
 
 Areto Systems provide merchant account services and credit card processing solutions to all merchants including startups, eCommerce businesses, small online shops and enterprises.
 
@@ -14,7 +14,19 @@ Please update these information into aretosystems.php
 
 ### Benifits
 
-Credit Card Processing & Merchant Account Services
-Online Payments & eCommerce solutions
-Hosted Payment Page
-Shopping Cart Plugins
+    Credit Card Processing & Merchant Account Services
+    Online Payments & eCommerce solutions
+    Hosted Payment Page
+    Shopping Cart Plugins
+
+
+### Available Plugins
+        Magento 1.x
+        Magento 2.x
+        Woocommerce
+        WordPress
+        VirtueMart
+        PrestaShop
+        OpenCart
+        Zen Cart
+        OsCommerce
